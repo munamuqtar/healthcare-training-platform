@@ -1,0 +1,38 @@
+[
+  {
+    "user": "nuark4hmqm75uhd",
+    "training": "li5dmtcmqm75uho",
+    "attendanceStatus": "present",
+    "completionStatus": "ongoing",
+    "registeredAt": "2026-06-20T10:10:36.829Z",
+    "_id": "y1j01fxmqm75uhr",
+    "createdAt": "2026-06-20T10:10:36.831Z"
+  },
+  {
+    "user": "28sirpvmqm75uhf",
+    "training": "li5dmtcmqm75uho",
+    "attendanceStatus": "present",
+    "completionStatus": "ongoing",
+    "registeredAt": "2026-06-20T10:10:36.832Z",
+    "_id": "yzwcxzlmqm75uht",
+    "createdAt": "2026-06-20T10:10:36.833Z"
+  },
+  {
+    "user": "nuark4hmqm75uhd",
+    "training": "j4t7cusmqm75uhu",
+    "attendanceStatus": "present",
+    "completionStatus": "completed",
+    "registeredAt": "2026-06-05T10:10:36.836Z",
+    "_id": "ay6ffgwmqm75uhw",
+    "createdAt": "2026-06-20T10:10:36.836Z"
+  },
+  {
+    "user": "ywvq0ltmqm75uh9",
+    "training": "emc6lexmqm7etdv",
+    "attendanceStatus": "pending",
+    "completionStatus": "ongoing",
+    "registeredAt": "2026-06-20T10:19:18.884Z",
+    "_id": "lhrq4w7mqm7h1b9",
+    "createdAt": "2026-06-20T10:19:18.885Z"
+  }
+]

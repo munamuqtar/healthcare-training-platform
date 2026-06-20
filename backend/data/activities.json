@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Free Blood Pressure & Diabetes Screening Campaign",
+    "description": "Organized a free community wellness camp at Green Valley Mall where our trainers and nurses screened over 350 residents for primary health issues, providing education on nutrition and diabetes prevention.",
+    "images": [
+      "/assets/images/activity1.jpg"
+    ],
+    "videos": [],
+    "activityDate": "2026-06-05",
+    "_id": "rksuxhwmqm75uj1",
+    "createdAt": "2026-06-20T10:10:36.877Z"
+  },
+  {
+    "title": "World Health Day Symposium 2026",
+    "description": "Hosted our annual panel discussion centering around modern public health structures, mental health equity, and resilient healthcare facilities. Panelists included lead regional physicians.",
+    "images": [
+      "/assets/images/activity2.jpg"
+    ],
+    "videos": [],
+    "activityDate": "2026-05-21",
+    "_id": "peeg72vmqm75uj3",
+    "createdAt": "2026-06-20T10:10:36.879Z"
+  },
+  {
+    "title": "traning",
+    "description": "100101991919911",
+    "images": [
+      "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "videos": [],
+    "activityDate": "2026-06-20",
+    "_id": "hqrhz3omqm7bx2h",
+    "createdAt": "2026-06-20T10:15:20.105Z"
+  }
+]

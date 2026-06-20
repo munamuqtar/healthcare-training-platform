@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Super Admin",
+    "email": "admin@healthcare.org",
+    "phone": "+1 (555) 0199",
+    "password": "$2a$10$m7b2kkKiKhvU3n8EqaBfYulXzf6LZMwjPwj5fTuCFyrLSBLfxTic2",
+    "role": "admin",
+    "isActive": true,
+    "_id": "ywvq0ltmqm75uh9",
+    "createdAt": "2026-06-20T10:10:36.813Z"
+  },
+  {
+    "name": "John Doe",
+    "email": "user@healthcare.org",
+    "phone": "+1 (555) 0188",
+    "password": "$2a$10$V9Cw4C2QtM8f1mq22zY7Tuhckc2Yrat9Zg3a50DZzvlEmCC2sM9CW",
+    "role": "user",
+    "isActive": true,
+    "_id": "nuark4hmqm75uhd",
+    "createdAt": "2026-06-20T10:10:36.817Z"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "tester@healthcare.org",
+    "phone": "+1 (555) 0177",
+    "password": "$2a$10$yAXrsH.ynilk77ee6XEQHeibvXZpli6o8OisC7OJJNKURTcd.fPqe",
+    "role": "user",
+    "isActive": true,
+    "_id": "28sirpvmqm75uhf",
+    "createdAt": "2026-06-20T10:10:36.819Z"
+  }
+]

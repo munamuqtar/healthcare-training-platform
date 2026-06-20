@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Cardiovascular Life Support (ACLS)",
+    "description": "Advanced course focusing on urgent treatment of cardiac arrest, stroke, and cardiovascular emergencies. Highly recommended for physicians, nurses, and paramedics.",
+    "trainer": "Dr. Sarah Jenkins, MD, FACC",
+    "venue": "Main Medical Center Hall A",
+    "startDate": "2026-06-25",
+    "endDate": "2026-06-26",
+    "registrationDeadline": "2026-06-23",
+    "participantLimit": 30,
+    "registeredCount": 0,
+    "status": "open",
+    "_id": "ii372jemqm75uhk",
+    "createdAt": "2026-06-20T10:10:36.824Z"
+  },
+  {
+    "title": "Community Health Awareness & Preventive Medicine",
+    "description": "A campaign and training event focused on nutritional counseling, hygiene practices, and early indicators of chronic illnesses to promote longevity in municipal communities.",
+    "trainer": "Clara Oswald, Lead Community Nurse",
+    "venue": "Green Valley Community Center",
+    "startDate": "2026-07-02",
+    "endDate": "2026-07-03",
+    "registrationDeadline": "2026-06-30",
+    "participantLimit": 50,
+    "registeredCount": 0,
+    "status": "open",
+    "_id": "63lm4k4mqm75uhm",
+    "createdAt": "2026-06-20T10:10:36.826Z"
+  },
+  {
+    "title": "Pediatric First Aid & CPR Workshop",
+    "description": "Essential lifesaving skills training for handling breathing emergencies, allergic reactions, choking, and cardiac arrest in infants and children.",
+    "trainer": "Robert Downey, EMT-P",
+    "venue": "Family Wellness Annex Room 4",
+    "startDate": "2026-06-22",
+    "endDate": "2026-06-22",
+    "registrationDeadline": "2026-06-21",
+    "participantLimit": 2,
+    "registeredCount": 2,
+    "status": "full",
+    "_id": "li5dmtcmqm75uho",
+    "createdAt": "2026-06-20T10:10:36.828Z"
+  },
+  {
+    "title": "Infection Control and Prevention in Clinical Settings",
+    "description": "Understanding pathogens, hygiene barriers, personal protective equipment (PPE) compliance, and disinfecting protocols in high-risk zones.",
+    "trainer": "Dr. Helen Carter, PhD in Virology",
+    "venue": "Surgical Building Training Hall",
+    "startDate": "2026-06-10",
+    "endDate": "2026-06-11",
+    "registrationDeadline": "2026-06-08",
+    "participantLimit": 25,
+    "registeredCount": 1,
+    "status": "closed",
+    "_id": "j4t7cusmqm75uhu",
+    "createdAt": "2026-06-20T10:10:36.834Z"
+  },
+  {
+    "title": "wacyigalin caafimaad",
+    "description": "welcome to te traning",
+    "trainer": "Dr. cali ahmed",
+    "venue": "jaziira hall",
+    "startDate": "2026-06-26",
+    "endDate": "2026-06-26",
+    "registrationDeadline": "2026-06-23",
+    "participantLimit": 100,
+    "registeredCount": 1,
+    "status": "open",
+    "_id": "emc6lexmqm7etdv",
+    "createdAt": "2026-06-20T10:17:35.299Z"
+  }
+]
