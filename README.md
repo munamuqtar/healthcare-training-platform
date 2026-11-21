@@ -108,10 +108,7 @@ The technologies used in this project may include:
 
 - **Frontend:** React.js
 - **Backend:** Node.js / Express.js
-- **Database:** PostgreSQL or Supabase
-- **Authentication:** Secure user and admin authentication
-- **Image Storage:** Cloud-based image storage
-- **UI Design:** Responsive web design
+- **Database:** Supabase
 
 *Update this section to reflect the actual technologies used in the project.*
 
